@@ -1,5 +1,8 @@
 Test automation assignment. 
 
+
+
+
 Unzip the zip file that you’ve received from your recruiter. You will find a folder “PKUITestAutomation”
 Open that folder and run “PKUITestAutomation.xcodepro”
 Please answer CI/CD questions. 
